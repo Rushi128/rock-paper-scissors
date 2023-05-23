@@ -1,3 +1,5 @@
+
+
 # Rock-Paper-Scissors Game with OpenCV
 
 This is a simple implementation of the classic rock-paper-scissors game using Python and OpenCV. The game allows you to play against the computer by making hand gestures for rock, paper, or scissors.
@@ -20,7 +22,7 @@ This is a simple implementation of the classic rock-paper-scissors game using Py
 
 ## Prerequisites
 
-- Python 3.7
+- Python 3.x
 - OpenCV library
 - Webcam or camera device
 
@@ -28,27 +30,24 @@ This is a simple implementation of the classic rock-paper-scissors game using Py
 
 1. Clone the repository:
 
-git clone https://github.com/Rushi128/rock-paper-scissors.git
-
-markdown
-Copy code
+```
+git clone https://github.com/your-username/rock-paper-scissors.git
+```
 
 2. Install the required dependencies:
 
+```
 pip install opencv-python
-
-markdown
-Copy code
+```
 
 ## Usage
 
 1. Open a terminal and navigate to the project directory.
 2. Run the game script:
 
+```
 python game.py
-
-vbnet
-Copy code
+```
 
 3. Allow access to the webcam when prompted.
 4. Position your hand in front of the camera to make your gesture.
@@ -58,3 +57,4 @@ Copy code
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more information.
+
