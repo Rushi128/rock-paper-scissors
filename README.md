@@ -31,7 +31,7 @@ This is a simple implementation of the classic rock-paper-scissors game using Py
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/Rushi128/rock-paper-scissors.git
 ```
 
 2. Install the required dependencies:
